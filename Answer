@@ -2,4 +2,4 @@
 a=("little tough to create. Especially")
 b=("ones that are mixed up.")
 c=("Sentences are sometimes a")
-print(a, b, c, sep= "@@@", end="\n")
+print(a, b, c, sep= "@@@\n", end="\n")
